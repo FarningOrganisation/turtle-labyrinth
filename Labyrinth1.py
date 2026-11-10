@@ -1,7 +1,7 @@
 from turtle import *
 
 fenster = Screen()
-fenster.setup(500, 800, startx=1000, starty=100)
+fenster.setup(500, 800, startx=1400, starty=100)
 
 shape("turtle")
 
@@ -11,7 +11,7 @@ penup()
 goto(-70, 305)
 pendown()
 pencolor("red")
-pensize(10)
+
 
 # Ab hier schreiben wir unseren Code
 # TODO
