@@ -13,8 +13,27 @@ pendown()
 pencolor("red")
 
 
+"""
+fd(100) - nach vorne gehen
+rt(90)  - nach rechts drehen
+lt(90)  - nach links drehen
+"""
+
 # Ab hier schreiben wir unseren Code
 # TODO
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
