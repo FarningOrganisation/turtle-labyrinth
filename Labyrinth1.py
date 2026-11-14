@@ -9,7 +9,6 @@ bgpic("bg1.png")
 penup()
 
 pencolor("black")
-speed(-1)
 
 
 goto(-70, 305)
